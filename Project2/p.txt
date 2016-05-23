@@ -1,0 +1,31 @@
+30
+Agua ; 0.3
+Ananas ; 5.23
+Baguete ; 0.35
+Barco LEGO ; 19.99
+Bolachas ; 0.79
+Carne ; 3.55
+Casa Barbie ; 39.55
+Cereais ; 1.99
+Chocolates Milka ; 3.45
+Chocolates Pingo Doce ; 1.5
+Corta-Unhas ; 5.79
+Croissant ; 0.65
+Douradinhos Cap. Iglo ; 7.99
+Farinha Fina ; 2.99
+Farinha Muito Fina ; 2.55
+Gelado Cornetto ; 3.12
+Gregos da Danone (Oikos) ; 3.95
+Gregos da Nestle ; 2.99
+Laranjas ; 1.99
+Leite Meio-Gordo ; 0.64
+Ovos ; 2.11
+Peixe ; 5.01
+Pen USB 32GB ; 12.95
+Pen USB 4GB ; 2
+Pen USB 8GB ; 4
+Queijo da Serra ; 6.78
+Shampoo ; 2.35
+Sumo ; 1.3
+Tupperware ; 2.34
+Vinho ; 2.35

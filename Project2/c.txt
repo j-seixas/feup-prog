@@ -1,0 +1,21 @@
+20
+1 ; Daniel Marques ; 22/05/2016 ; 67.27
+2 ; Joao Seixas ; 22/05/2016 ; 9.99
+3 ; Paulo Portas ; 22/05/2016 ; 10.97
+4 ; Antonio Costa ; 22/05/2016 ; 31.62
+5 ; Barack Obama ; 22/05/2016 ; 12.41
+6 ; Passos Coelho ; 22/05/2016 ; 17.33
+7 ; Vladimir Putin ; 22/05/2016 ; 10.14
+8 ; Cristiano Ronaldo ; 22/05/2016 ; 11.44
+9 ; Casillas ; 22/05/2016 ; 63.12
+10 ; Layun ; 22/05/2016 ; 14.31
+11 ; Maxi Pereira ; 22/05/2016 ; 18.27
+12 ; Brahimi ; 22/05/2016 ; 22.76
+13 ; Artur Vidal ; 22/05/2016 ; 22.21
+14 ; Bill Gates ; 22/05/2016 ; 16.34
+15 ; Steve Jobs ; 22/05/2016 ; 56.67
+16 ; Donald Trump ; 22/05/2016 ; 73.83
+17 ; Tony Carreira ; 22/05/2016 ; 13.78
+18 ; Ana Malhoa ; 22/05/2016 ; 9.94
+19 ; Quim Barreiros ; 22/05/2016 ; 25.57
+20 ; Zeca Estacionancio ; 22/05/2016 ; 23.59

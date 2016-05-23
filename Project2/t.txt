@@ -1,0 +1,24 @@
+23
+1 ; 22/05/2016 ; Pen USB 32GB, Casa Barbie
+2 ; 22/05/2016 ; Douradinhos Cap. Iglo, Pen USB 4GB
+1 ; 22/05/2016 ; Douradinhos Cap. Iglo, Queijo da Serra
+3 ; 22/05/2016 ; Douradinhos Cap. Iglo, Leite Meio-Gordo, Tupperware
+4 ; 22/05/2016 ; Farinha Fina, Agua, Baguete, Barco LEGO, Douradinhos Cap. Iglo
+5 ; 22/05/2016 ; Gelado Cornetto, Douradinhos Cap. Iglo, Sumo
+6 ; 22/05/2016 ; Croissant, Carne, Baguete, Pen USB 8GB, Gregos da Nestle, Corta-Unhas
+20 ; 22/05/2016 ; Douradinhos Cap. Iglo, Shampoo, Gelado Cornetto, Farinha Muito Fina, Vinho, Ananas
+19 ; 22/05/2016 ; Corta-Unhas, Douradinhos Cap. Iglo, Queijo da Serra, Peixe
+18 ; 22/05/2016 ; Croissant, Douradinhos Cap. Iglo, Sumo
+7 ; 22/05/2016 ; Chocolates Pingo Doce, Croissant, Douradinhos Cap. Iglo
+8 ; 22/05/2016 ; Chocolates Milka, Douradinhos Cap. Iglo
+9 ; 22/05/2016 ; Cereais, Casa Barbie, Douradinhos Cap. Iglo, Pen USB 32GB, Leite Meio-Gordo
+11 ; 22/05/2016 ; Gelado Cornetto, Ovos, Ovos, Tupperware, Douradinhos Cap. Iglo, Agua, Agua
+10 ; 22/05/2016 ; Laranjas, Laranjas, Douradinhos Cap. Iglo, Tupperware
+12 ; 22/05/2016 ; Farinha Fina, Farinha Muito Fina, Douradinhos Cap. Iglo, Pen USB 8GB, Ananas
+13 ; 22/05/2016 ; Chocolates Milka, Cereais, Carne, Ananas, Douradinhos Cap. Iglo
+14 ; 22/05/2016 ; Baguete, Peixe, Douradinhos Cap. Iglo, Shampoo, Leite Meio-Gordo
+15 ; 22/05/2016 ; Douradinhos Cap. Iglo, Croissant, Bolachas, Baguete, Ananas, Ovos, Casa Barbie
+16 ; 22/05/2016 ; Gregos da Danone (Oikos), Douradinhos Cap. Iglo, Barco LEGO, Casa Barbie, Shampoo
+17 ; 22/05/2016 ; Corta-Unhas
+6 ; 22/05/2016 ; Douradinhos Cap. Iglo
+17 ; 22/05/2016 ; Douradinhos Cap. Iglo
