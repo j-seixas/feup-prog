@@ -1,0 +1,10 @@
+1 ; Rui Pereira ; 234.67
+2 ; Maria de Lurdes ; 123.54
+3 ; Manuela Moura ; 1237.80
+4 ; Joana Beires ; 1231.00
+5 ; asd ; 15538.00
+6 ; Rui Pereira ; 234.67
+7 ; Maria de Lurdes ; 123.54
+8 ; Manuela Moura ; 1237.80
+16 ; Joana Beires ; 1231.00
+21 ; asd ; 15538.00
