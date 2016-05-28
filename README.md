@@ -1,4 +1,5 @@
 # PROG
 
-T1G10.rar is the project2
+Este repositorio tem os meus projetos do 1º semestre da cadeira de PROG
+
 
