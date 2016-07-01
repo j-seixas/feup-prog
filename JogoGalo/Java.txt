@@ -1,0 +1,280 @@
+package com.example.android.jogogalo;
+
+import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
+
+import java.text.NumberFormat;
+
+/**
+ * This app displays an order form to order coffee.
+ */
+public class MainActivity extends AppCompatActivity {
+
+    int player = 0;
+    int total1 = 0;
+    int total2 = 0;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+    }
+
+    /**
+     * This method is called when the plus button is clicked.
+     */
+    public void B1change(View view) {
+        Button butn = (Button) findViewById(R.id.B1);
+        CharSequence buttonText = butn.getText();
+        if (buttonText != "X" && buttonText != "O") {
+            if (player % 2 == 0) {
+                butn.setText("X");
+            } else {
+                butn.setText("O");
+            }
+            player = player + 1;
+            checkIfWin();
+            changePlayer();
+        }
+    }
+
+    public void B2change(View view) {
+        Button butn = (Button) findViewById(R.id.B2);
+        CharSequence buttonText = butn.getText();
+        if (buttonText != "X" && buttonText != "O") {
+            if (player % 2 == 0) {
+                butn.setText("X");
+            } else {
+                butn.setText("O");
+            }
+            player = player + 1;
+            checkIfWin();
+            changePlayer();
+        }
+    }
+
+    public void B3change(View view) {
+        Button butn = (Button) findViewById(R.id.B3);
+        CharSequence buttonText = butn.getText();
+        if (buttonText != "X" && buttonText != "O") {
+            if (player % 2 == 0) {
+                butn.setText("X");
+            } else {
+                butn.setText("O");
+            }
+            player = player + 1;
+            checkIfWin();
+            changePlayer();
+
+        }
+    }
+
+    public void B4change(View view) {
+        Button butn = (Button) findViewById(R.id.B4);
+        CharSequence buttonText = butn.getText();
+        if (buttonText != "X" && buttonText != "O") {
+            if (player % 2 == 0) {
+                butn.setText("X");
+            } else {
+                butn.setText("O");
+            }
+            player = player + 1;
+            checkIfWin();
+            changePlayer();
+
+        }
+    }
+
+    public void B5change(View view) {
+        Button butn = (Button) findViewById(R.id.B5);
+        CharSequence buttonText = butn.getText();
+        if (buttonText != "X" && buttonText != "O") {
+            if (player % 2 == 0) {
+                butn.setText("X");
+            } else {
+                butn.setText("O");
+            }
+            player = player + 1;
+            checkIfWin();
+            changePlayer();
+
+        }
+    }
+
+    public void B6change(View view) {
+        Button butn = (Button) findViewById(R.id.B6);
+        CharSequence buttonText = butn.getText();
+        if (buttonText != "X" && buttonText != "O") {
+            if (player % 2 == 0) {
+                butn.setText("X");
+            } else {
+                butn.setText("O");
+            }
+            player = player + 1;
+            checkIfWin();
+            changePlayer();
+
+        }
+    }
+
+    public void B7change(View view) {
+        Button butn = (Button) findViewById(R.id.B7);
+        CharSequence buttonText = butn.getText();
+        if (buttonText != "X" && buttonText != "O") {
+            if (player % 2 == 0) {
+                butn.setText("X");
+            } else {
+                butn.setText("O");
+            }
+            player = player + 1;
+            checkIfWin();
+            changePlayer();
+        }
+    }
+
+    public void B8change(View view) {
+        Button butn = (Button) findViewById(R.id.B8);
+        CharSequence buttonText = butn.getText();
+        if (buttonText != "X" && buttonText != "O") {
+            if (player % 2 == 0) {
+                butn.setText("X");
+
+            } else {
+                butn.setText("O");
+            }
+            player = player + 1;
+            checkIfWin();
+            changePlayer();
+        }
+    }
+
+    public void B9change(View view) {
+        Button butn = (Button) findViewById(R.id.B9);
+        CharSequence buttonText = butn.getText();
+        if (buttonText != "X" && buttonText != "O") {
+            if (player % 2 == 0) {
+                butn.setText("X");
+            } else {
+                butn.setText("O");
+            }
+            player = player + 1;
+            checkIfWin();
+            changePlayer();
+        }
+    }
+
+    /**
+     * This method is called when the minus button is clicked.
+     */
+    public void checkIfWin() {
+        Button butn1 = (Button) findViewById(R.id.B1);
+        CharSequence b1Txt = butn1.getText();
+        Button butn2 = (Button) findViewById(R.id.B2);
+        CharSequence b2Txt = butn2.getText();
+        Button butn3 = (Button) findViewById(R.id.B3);
+        CharSequence b3Txt = butn3.getText();
+        Button butn4 = (Button) findViewById(R.id.B4);
+        CharSequence b4Txt = butn4.getText();
+        Button butn5 = (Button) findViewById(R.id.B5);
+        CharSequence b5Txt = butn5.getText();
+        Button butn6 = (Button) findViewById(R.id.B6);
+        CharSequence b6Txt = butn6.getText();
+        Button butn7 = (Button) findViewById(R.id.B7);
+        CharSequence b7Txt = butn7.getText();
+        Button butn8 = (Button) findViewById(R.id.B8);
+        CharSequence b8Txt = butn8.getText();
+        Button butn9 = (Button) findViewById(R.id.B9);
+        CharSequence b9Txt = butn9.getText();
+
+        if ((b1Txt == "X" && b2Txt == "X" && b3Txt == "X") || (b4Txt == "X" && b5Txt == "X" && b6Txt == "X") ||
+                (b7Txt == "X" && b8Txt == "X" && b9Txt == "X") || (b1Txt == "X" && b4Txt == "X" && b7Txt == "X") ||
+                (b2Txt == "X" && b5Txt == "X" && b8Txt == "X") || (b3Txt == "X" && b6Txt == "X" && b9Txt == "X") ||
+                (b1Txt == "X" && b5Txt == "X" && b9Txt == "X") || (b3Txt == "X" && b5Txt == "X" && b7Txt == "X")) {
+            clearAll();
+            increment(1);
+        }
+        if ((b1Txt == "O" && b2Txt == "O" && b3Txt == "O") || (b4Txt == "O" && b5Txt == "O" && b6Txt == "O") ||
+                (b7Txt == "O" && b8Txt == "O" && b9Txt == "O") || (b1Txt == "O" && b4Txt == "O" && b7Txt == "O") ||
+                (b2Txt == "O" && b5Txt == "O" && b8Txt == "O") || (b3Txt == "O" && b6Txt == "O" && b9Txt == "O") ||
+                (b1Txt == "O" && b5Txt == "O" && b9Txt == "O") || (b3Txt == "O" && b5Txt == "O" && b7Txt == "O")) {
+            clearAll();
+            increment(2);
+
+        }
+        if (b1Txt != "" && b2Txt != "" && b3Txt != "" && b4Txt != "" && b5Txt != "" &&
+                b6Txt != "" && b7Txt != "" && b8Txt != "" && b9Txt != "") {
+            clearAll();
+        }
+    }
+
+    public void clearAll() {
+        Button butn1 = (Button) findViewById(R.id.B1);
+        CharSequence b1Txt = butn1.getText();
+        Button butn2 = (Button) findViewById(R.id.B2);
+        CharSequence b2Txt = butn2.getText();
+        Button butn3 = (Button) findViewById(R.id.B3);
+        CharSequence b3Txt = butn3.getText();
+        Button butn4 = (Button) findViewById(R.id.B4);
+        CharSequence b4Txt = butn4.getText();
+        Button butn5 = (Button) findViewById(R.id.B5);
+        CharSequence b5Txt = butn5.getText();
+        Button butn6 = (Button) findViewById(R.id.B6);
+        CharSequence b6Txt = butn6.getText();
+        Button butn7 = (Button) findViewById(R.id.B7);
+        CharSequence b7Txt = butn7.getText();
+        Button butn8 = (Button) findViewById(R.id.B8);
+        CharSequence b8Txt = butn8.getText();
+        Button butn9 = (Button) findViewById(R.id.B9);
+        CharSequence b9Txt = butn8.getText();
+        butn1.setText("");
+        butn2.setText("");
+        butn3.setText("");
+        butn4.setText("");
+        butn5.setText("");
+        butn6.setText("");
+        butn7.setText("");
+        butn8.setText("");
+        butn9.setText("");
+    }
+
+    public void increment(int number) {
+        if (number == 1) {
+            total1 = total1 + 1;
+            displayWins1(total1);
+        } else if (number == 2) {
+            total2 = total2 + 1;
+            displayWins2(total2);
+        }
+    }
+
+
+    /**
+     * This method displays the given price on the screen.
+     */
+    private void displayWins1(int number) {
+        TextView wins = (TextView) findViewById(R.id.player1);
+        wins.setText("X - Player1       " + number);
+    }
+
+    private void displayWins2(int number) {
+        TextView wins = (TextView) findViewById(R.id.player2);
+        wins.setText("O - Player2       " + number);
+    }
+
+    private void changePlayer() {
+        TextView player1 = (TextView) findViewById(R.id.player1_time);
+        TextView player2 = (TextView) findViewById(R.id.player2_time);
+        if (player % 2 == 0) {
+            player1.setText("--->");
+            player2.setText("");
+        } else {
+            player2.setText("--->");
+            player1.setText("");
+        }
+    }
+
+}
